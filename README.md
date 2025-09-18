@@ -86,4 +86,4 @@ Contributions are welcome! Please feel free to submit a pull request with any im
 
 ## License
 
-MIT License - This project is open source and licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+MIT License - This project is open source and licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
